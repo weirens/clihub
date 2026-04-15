@@ -1,6 +1,6 @@
 # CliHub
 
-[中文](./README.zh-CN.md) | [English](./README.en.md)
+[English](./README.md) | [中文](./README.zh-CN.md)
 
 CliHub 是一个基于 Tauri 2 的桌面工作台，用来统一启动、管理和查看多个 CLI coding agent 会话。
 
