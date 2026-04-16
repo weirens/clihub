@@ -18,7 +18,7 @@ jobs:
           - platform: macos-latest
             args: ""
             target: ""
-          - platform: macos-13
+          - platform: macos-15-intel
             args: ""
             target: ""
           - platform: windows-latest
